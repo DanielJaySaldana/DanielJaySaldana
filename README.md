@@ -1,10 +1,14 @@
-## Hi there 👋, I am Daniel Jay P. Saldaña, a Freelance Full-Stack Web Developer 
+## Hi there 👋, I am Daniel Jay P. Saldaña, an aspiring Freelance Full-Stack Web Developer 
 
 ______________________________________________________________________________________________________________________________________________________________________
 
-About Me 
+About Me 😎
 ---
 I focused on developing **efficient**, **scalable**, and **standout web solutions** that satisfies every client.
+I am 20 years old and a Bachelor of Science in Information Systems college student from Davao del Norte State College.
 
+I already have made reputable projects such as ECCD Teacher Renewal System, Discounted Labs System, Emergency Dispatch System, E-Commerce System, and SmartSari Inverntory Management System.
+
+Currently, I am exploring on AI tools to maximize their potential so I can bring more ideas into life. 
 
 
