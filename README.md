@@ -1,6 +1,7 @@
-## Hi there 👋, I am Daniel Jay P. Saldaña, a Freelance Full-Stack Web Developer who can make a stand out websites and make good impact on my clients.
+## Hi there 👋, I am Daniel Jay P. Saldaña, a Freelance Full-Stack Web Developer 
 
-I 
+I focused on developing efficient, scalable, and standout web solutions that satisfies every client.
+
 
 
 
