@@ -34,7 +34,7 @@ ________________________________________________________________________________
 - Renewal status and history tracking
 - Report generation
 
-<img width="500" height="200" alt="Screenshot (4521)" src="https://github.com/user-attachments/assets/2d7de394-9a23-45d9-b204-4c8a74a0de6d" />
+<img width="300" height="200" alt="Screenshot (4521)" src="https://github.com/user-attachments/assets/2d7de394-9a23-45d9-b204-4c8a74a0de6d" />
 
 <img width="500" alt="Screenshot (4522)" src="https://github.com/user-attachments/assets/7870d95e-f48a-4e7b-8626-fa484ace8908" />
 
