@@ -8,6 +8,7 @@ I focused on developing **efficient**, **scalable**, and **standout web solution
 I am 20 years old and a Bachelor of Science in Information Systems college student from Davao del Norte State College.
 
 I already have made reputable projects such as ECCD Teacher Renewal System, Discounted Labs System, and Emergency Dispatch System.
+
 Currently, I am exploring on AI tools to maximize their potential so I can bring more ideas into life. 
 
 ______________________________________________________________________________________________________________________________________________________________________
