@@ -22,7 +22,6 @@ ________________________________________________________________________________
 <table>
 <tr>
 <td>
-
 ### ✨ Key Features:
 
 - Offline-first architecture with cloud sync
@@ -30,7 +29,6 @@ ________________________________________________________________________________
 - Real-time inventory tracking
 - Sales analytics dashboard
 - Clean and responsive UI
-
 </td>
 </tr>
 </table>
