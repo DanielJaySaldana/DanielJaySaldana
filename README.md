@@ -65,9 +65,9 @@ ________________________________________________________________________________
 - Data Synchronization
 - Modern Admin Dashboard Interface
 
-<img width="300"  alt="Screenshot (4582)" src="https://github.com/user-attachments/assets/2431d088-d4f4-4d92-bbf7-752719d0f2b0" />
+<img width="500"  alt="Screenshot (4582)" src="https://github.com/user-attachments/assets/2431d088-d4f4-4d92-bbf7-752719d0f2b0" />
 
-<img width="300" alt="Screenshot (4579)" src="https://github.com/user-attachments/assets/5c467c6c-ab13-42ae-9962-396227bc6f7f" />
+<img width="500" alt="Screenshot (4579)" src="https://github.com/user-attachments/assets/5c467c6c-ab13-42ae-9962-396227bc6f7f" />
 
   
 </td>
@@ -97,9 +97,9 @@ ________________________________________________________________________________
 - Real-Time Monitoring of Orders and Agents
 - Modern Admin Dashboard Interface
 
-<img width="450" alt="Screenshot (4586)" src="https://github.com/user-attachments/assets/eb5ea798-6f4a-49f0-91a2-c8e7fac8087c" />
+<img width="500" alt="Screenshot (4586)" src="https://github.com/user-attachments/assets/eb5ea798-6f4a-49f0-91a2-c8e7fac8087c" />
 
-<img width="450" alt="Screenshot (4577)" src="https://github.com/user-attachments/assets/a5b4c7a6-7884-46ae-ad3d-17001df4c06c" />
+<img width="500" height="800" alt="Screenshot (4577)" src="https://github.com/user-attachments/assets/a5b4c7a6-7884-46ae-ad3d-17001df4c06c" />
 
 </td>
 </tr>
