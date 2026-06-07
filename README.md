@@ -22,8 +22,7 @@ ________________________________________________________________________________
 <table>
 <tr>
 <td>
-  
-### ✨ Key Features
+ <b>✨ Key Features</b>
 
 - Offline-first architecture with cloud sync
 - Multi-tenant system support
