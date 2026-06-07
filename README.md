@@ -19,11 +19,11 @@ ________________________________________________________________________________
 **ECCD Teacher Renewal System**
 - a centralized renewal system dedicated for the child development teachers in Panabo City
 
-> ### ✨ Key Features
->
-> - Offline-first architecture with cloud sync
-> - Multi-tenant system support
-> - Real-time inventory tracking
-> - Sales analytics dashboard
-> - Clean and responsive UI
+| ✨ Key Features |
+|----------------|
+| • Offline-first architecture with cloud sync 
+| • Multi-tenant system support 
+| • Real-time inventory tracking 
+| • Sales analytics dashboard 
+| • Clean and responsive UI 
 
