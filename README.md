@@ -21,12 +21,14 @@ ________________________________________________________________________________
 
 <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin-top: 10px;">
 
-**✨Key Features:**
--sdsd
--sdsd
--sd
--sd
--sd
+**✨ Key Features:**
+
+- Offline-first architecture with cloud sync
+- Multi-tenant system support
+- Real-time inventory tracking
+- Sales analytics dashboard
+- Clean and responsive UI
+
 </div>
   
 
