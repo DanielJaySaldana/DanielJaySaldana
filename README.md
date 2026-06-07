@@ -13,7 +13,7 @@ Currently, I am exploring on AI tools to maximize their potential so I can bring
 
 ______________________________________________________________________________________________________________________________________________________________________
 
-**Project Highlights**
+**🎯Project Highlights**
 ---
 
 **ECCD Teacher Renewal System**
