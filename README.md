@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ---
 
 **ECCD Teacher Renewal System**
-a centralized renewal system dedicated for the child development teachers in Panabo City
+- a centralized renewal system dedicated for the child development teachers in Panabo City
 
 <table>
 <tr>
