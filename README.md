@@ -20,7 +20,7 @@ ________________________________________________________________________________
 - a centralized renewal system dedicated for the child development teachers in Panabo City
 
 <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin-top: 10px;">
-**✨Key Features:**
+**Key Features**
 
 
 </div>
