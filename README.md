@@ -65,7 +65,7 @@ ________________________________________________________________________________
 - Data Synchronization
 - Modern Admin Dashboard Interface
 
-<img width="400" height="380" alt="Screenshot (4582)" src="https://github.com/user-attachments/assets/2431d088-d4f4-4d92-bbf7-752719d0f2b0" />
+<img width="380" height="350" alt="Screenshot (4582)" src="https://github.com/user-attachments/assets/2431d088-d4f4-4d92-bbf7-752719d0f2b0" />
 
 <img width="450" height="300" alt="Screenshot (4579)" src="https://github.com/user-attachments/assets/5c467c6c-ab13-42ae-9962-396227bc6f7f" />
 
