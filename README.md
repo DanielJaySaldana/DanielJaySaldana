@@ -11,4 +11,18 @@ I already have made reputable projects such as ECCD Teacher Renewal System, Disc
 
 Currently, I am exploring on AI tools to maximize their potential so I can bring more ideas into life. 
 
+______________________________________________________________________________________________________________________________________________________________________
+
+**Project Highlights**
+---
+
+**ECCD Teacher Renewal System**
+- a centralized renewal system dedicated for the child development teachers in Panabo City
+
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin-top: 10px;">
+**✨Key Features:**
+
+
+</div>
+  
 
