@@ -45,7 +45,7 @@ ________________________________________________________________________________
 ---
 
 **E-Commerce System**
-- 
+- An e-commerce system used to manage online products, buying, selling, orders, customers, and sales.
 
 <table>
 <tr>
@@ -64,9 +64,36 @@ ________________________________________________________________________________
 - File and Calendar Management
 - Data Synchronization
 - Modern Admin Dashboard Interface
+
+<img width="500"  alt="Screenshot (4582)" src="https://github.com/user-attachments/assets/2431d088-d4f4-4d92-bbf7-752719d0f2b0" />
+
+<img width="500" alt="Screenshot (4579)" src="https://github.com/user-attachments/assets/5c467c6c-ab13-42ae-9962-396227bc6f7f" />
+
+  
 </td>
 </tr>
 </table>
+
+---
+
+**Emergency Dispatch System**
+- 
+
+<table>
+<tr>
+<td>
+ <b>✨ Key Features:</b>
+
+-
+-
+-
+-
+
+  
+</td>
+</tr>
+</table>
+
 
 
 
