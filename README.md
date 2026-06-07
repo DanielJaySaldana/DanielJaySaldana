@@ -52,10 +52,18 @@ ________________________________________________________________________________
 <td>
  <b>✨ Key Features:</b>
 
--
--
--
--
+- User Login and Registration
+- Sales and Profit Dashboard
+- Product Management
+- Customer Management
+- Order Tracking
+- Invoice and Payment Management
+- Inventory and Logistics Tracking
+- Sales Reports and Analytics
+- Chat and Mail Features
+- File and Calendar Management
+- Data Synchronization
+- Modern Admin Dashboard Interface
 </td>
 </tr>
 </table>
