@@ -7,7 +7,7 @@ About Me 😎
 I focused on developing **efficient**, **scalable**, and **standout web solutions** that satisfies every client.
 I am 20 years old and a Bachelor of Science in Information Systems college student from Davao del Norte State College.
 
-I already have made reputable projects such as ECCD Teacher Renewal System, Discounted Labs System, and Emergency Dispatch System.
+I already have made reputable projects such as ECCD Teacher Renewal System, E-Commerce System, and Emergency Dispatch System.
 
 Currently, I am exploring on AI tools to maximize their potential so I can bring more ideas into life. 
 
@@ -41,8 +41,23 @@ ________________________________________________________________________________
 </td>
 </tr>
 </table>
+---
 
+**E-Commerce System**
+- 
 
+<table>
+<tr>
+<td>
+ <b>✨ Key Features:</b>
+
+-
+-
+-
+-
+</td>
+</tr>
+</table>
 
 
 
