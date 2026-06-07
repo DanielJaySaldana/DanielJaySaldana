@@ -24,11 +24,24 @@ ________________________________________________________________________________
 <td>
  <b>✨ Key Features:</b>
 
-- Offline-first architecture with cloud sync
-- Multi-tenant system support
-- Real-time inventory tracking
-- Sales analytics dashboard
-- Clean and responsive UI
+- Role-based login for Teacher and ECCD Focal
+- Teacher profile and account management
+- Renewal schedule management
+- Teacher renewal application submission
+- Application review and approval process
+- Document upload for renewal requirements
+- Notification system
+- Renewal status and history tracking
+- Report generation
 </td>
 </tr>
 </table>
+
+
+
+
+
+
+
+
+
