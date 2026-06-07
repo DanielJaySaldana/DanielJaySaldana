@@ -22,6 +22,7 @@ ________________________________________________________________________________
 <table>
 <tr>
 <td>
+  
 ### ✨ Key Features
 
 - Offline-first architecture with cloud sync
