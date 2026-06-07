@@ -34,9 +34,9 @@ ________________________________________________________________________________
 - Renewal status and history tracking
 - Report generation
 
-<img width="400" height="310" alt="Screenshot (4521)" src="https://github.com/user-attachments/assets/2d7de394-9a23-45d9-b204-4c8a74a0de6d" />
+<img width="400" alt="Screenshot (4521)" src="https://github.com/user-attachments/assets/2d7de394-9a23-45d9-b204-4c8a74a0de6d" />
 
-<img width="400" height="310" alt="Screenshot (4522)" src="https://github.com/user-attachments/assets/7870d95e-f48a-4e7b-8626-fa484ace8908" />
+<img width="400" alt="Screenshot (4522)" src="https://github.com/user-attachments/assets/7870d95e-f48a-4e7b-8626-fa484ace8908" />
 
 </td>
 </tr>
@@ -97,9 +97,9 @@ ________________________________________________________________________________
 - Real-Time Monitoring of Orders and Agents
 - Modern Admin Dashboard Interface
 
-<img width="450" alt="Screenshot (4586)" src="https://github.com/user-attachments/assets/eb5ea798-6f4a-49f0-91a2-c8e7fac8087c" />
+<img width="400" alt="Screenshot (4586)" src="https://github.com/user-attachments/assets/eb5ea798-6f4a-49f0-91a2-c8e7fac8087c" />
 
-<img width="450" height="290" alt="Screenshot (4577)" src="https://github.com/user-attachments/assets/a5b4c7a6-7884-46ae-ad3d-17001df4c06c" />
+<img width="400" height="290" alt="Screenshot (4577)" src="https://github.com/user-attachments/assets/a5b4c7a6-7884-46ae-ad3d-17001df4c06c" />
 
 </td>
 </tr>
