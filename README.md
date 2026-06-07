@@ -67,7 +67,7 @@ ________________________________________________________________________________
 
 <img width="420" height="360" alt="Screenshot (4582)" src="https://github.com/user-attachments/assets/2431d088-d4f4-4d92-bbf7-752719d0f2b0" />
 
-<img width="480" height="330" alt="Screenshot (4579)" src="https://github.com/user-attachments/assets/5c467c6c-ab13-42ae-9962-396227bc6f7f" />
+<img width="480" height="360" alt="Screenshot (4579)" src="https://github.com/user-attachments/assets/5c467c6c-ab13-42ae-9962-396227bc6f7f" />
 
   
 </td>
