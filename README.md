@@ -77,19 +77,30 @@ ________________________________________________________________________________
 ---
 
 **Emergency Dispatch System**
-- 
+- An Emergency Dispatch System used to manage emergency requests, dispatch orders, agents, vendors, and real-time operations efficiently.
 
 <table>
 <tr>
 <td>
  <b>✨ Key Features:</b>
 
--
--
--
--
+- User Login and Authentication
+- Emergency Order Dispatching
+- Vendor Management
+- Agent Management
+- Order Tracking and Status Monitoring
+- Dashboard Analytics and Reports
+- Revenue Monitoring
+- Notification System
+- Search and Navigation Features
+- Settings and Account Management
+- Real-Time Monitoring of Orders and Agents
+- Modern Admin Dashboard Interface
 
-  
+<img width="500" alt="Screenshot (4586)" src="https://github.com/user-attachments/assets/eb5ea798-6f4a-49f0-91a2-c8e7fac8087c" />
+
+<img width="500" alt="Screenshot (4577)" src="https://github.com/user-attachments/assets/a5b4c7a6-7884-46ae-ad3d-17001df4c06c" />
+
 </td>
 </tr>
 </table>
