@@ -10,6 +10,7 @@ I am 20 years old and a Bachelor of Science in Information Systems college stude
 I already have made reputable projects such as ECCD Teacher Renewal System, E-Commerce System, and Emergency Dispatch System.
 
 Currently, I am exploring on AI tools to maximize their potential so I can bring more ideas into life. 
+You can check my repositories for the source code of my projects.
 
 ______________________________________________________________________________________________________________________________________________________________________
 
